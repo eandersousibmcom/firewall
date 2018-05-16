@@ -1,0 +1,16 @@
+ajax.googleapis.com
+bluedemos.com
+cloudsalesdemos.mybluemix.net
+cognosnext.bi.ibmcloud.com
+console.bluemix.net
+datascience.ibm.com
+github.io
+ibmaspera.com
+ibmcloud.com
+idaas.iam.ibm.com
+maxcdn.bootstrapcdn.com
+mybluemix.net
+w3id.sso.ibm.com
+www.bluemix.net
+www.github.com
+www.ibm.com
